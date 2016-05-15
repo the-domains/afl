@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AFL]]></title>
+        <description><![CDATA[AFL]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 02:33:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Match report: Tigers stun Swans with Lloyd's post-siren winner - AFL.com.au]]></title>
+            <description><![CDATA[<article><h1>Match report: Tigers stun Swans with Lloyd's post-siren winner - AFL.com.au</h1><p>RICHMOND has secured the drought-breaking win it needed in extraordinary circumstances, with Sam Lloyd kicking the match-winning goal from 50m to pinch a remarkable one-point win against the Sydney Swans. Lloyd marked just inside 50 with seconds remaining and kicked after the siren, falling to his knees as the ball sailed through to seal the 14.17 (101) to 15.19 (100) win at the MCG on Saturday night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5590a03d7e240586aa254d2babc8bdbe36ef586f.jpg"></article>]]></description>
+            <link>http://www.afl.com.au/news/2016-05-14/tigers-postsiren-stunner-gets-win-over-swans</link>
+            <guid isPermaLink="false">0f9dfcf2-38f1-4cb3-a3be-2eb2e7ded27b</guid>
+            <pubDate>Sun, 15 May 2016 02:33:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
