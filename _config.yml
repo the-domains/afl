@@ -1,6 +1,6 @@
 name: AFL
 favicon: null
-layout_spectrum: 0.5047458545304835
+layout_spectrum: 1
 typography_spectrum: 0.667060409905389
 title: AFL News
 cta:
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.10846380144357681
+  brandStrength: 0.1875
   lightness: 0.7078102615196258
-  saturation: 0.8341914203483611
+  saturation: 0.5
   rhythmicContrast: 0.5095150691922754
 purpose: []
