@@ -2,6 +2,7 @@ name: AFL
 favicon: null
 layout_spectrum: 0.5047458545304835
 typography_spectrum: 0.667060409905389
+title: AFL News
 cta:
   domain: null
   bucket: null
